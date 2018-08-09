@@ -1,0 +1,31 @@
+{
+    "sync.gist": "2ecc153120dc116b80ec3e87f79e4684",
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": true,
+    "sync.lastUpload": "2018-07-31T17:24:56.341Z",
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "window.titleBarStyle": "custom",
+    "cSpell.userWords": [
+        "Trello",
+        "arielpa",
+        "buildable",
+        "inwood",
+        "underserved"
+    ]
+}
