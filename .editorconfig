@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "editor.fontFamily": "\"Operator Mono\", 'monospace', monospace, 'Droid Sans Fallback'",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "breadcrumbs.enabled": true,
+    "window.titleBarStyle": "custom",
+    "css.lint.duplicateProperties": "warning",
+    "css.lint.float": "warning",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.triggerExpansionOnTab": true,
+    "html.format.indentInnerHtml": true
+}
